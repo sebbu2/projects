@@ -1,0 +1,12 @@
+|appurl|0|
+
+client/server p2p décentralisé#N/A
+Gestion bootstrap (deque)#fait
+gestion timeout#en cours
+Gestion multi-thread#à continuer
+liste des messages sur le serveur#fait
+renvoit des messages sur les clients (pipe/set)#en cours
+initialisation des clients#en cours
+positionnement des clients#à faire
+envoit de fichiers#à faire
+implémentation CAN/DHT#à faire

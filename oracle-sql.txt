@@ -1,0 +1,30 @@
+|appurl|0|http://sebbu.naedev.org/projects/oracle-sql/
+
+import/export d'une base/shema oracle en .sql#N/A
+liste des tables, vues, synonymes, indexes, procedures, triggers, sequences#fait
+export structures tables relationnelles (nom + colonnes )#fait#v0.1
+export types#fait
+ajout index standard ( unique ou non )#fait#v0.2
+ajout index calculé#fait#
+ajout contraintes ( primary key, unique, references, check )#fait
+ajout commentaires ( sur les tables et les colonnes )#fait#v0.3
+export db_link#fait
+export synonymes#fait
+export vues#fait
+export triggers#fait
+export sequences#fait
+export fonctions&procedures PL/SQL#fait
+export packages#fait#v0.4
+ajout contraintes ( scope is )#fait
+export structures tables objets#fait#0.5
+export file data store, directory, etc...#à faire
+export objets invalides (+ éventuellement correction )#à faire#v0.5.5
+ordonnancement des requetes ( selon les references )#à faire#v0.6
+export des données des tables#commencé#v0.6.5
+ajout données binaires ( BFILE, BLOB, CLOB, ORDAudio, ORDDoc, <br/>ORDImage, ORDImageSignature, ORDSource, ORDVideo, XMLType )#à faire#v0.7
+GUI ergonomique#à faire#v0.8
+optimisation nombre requetes & vitesse execution#à faire#v0.9
+gestion transaction, pause/reprise, stop#à faire#v0.10
+sauvegarde status pour reprise si plantage#à faire#v0.10.1
+
+@Reverse Engineering a Data Model using the Oracle Data Dictionary@http://www.eveandersson.com/writing/data-model-reverse-engineering

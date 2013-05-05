@@ -1,0 +1,18 @@
+|appurl|0|
+
+mon futur site d'actualité pour suivre mes flux rss ( à la place de feedreader )#N/A
+lecteur rss#fait
+tris par nom, série, suivi, date, flux#à faire
+si flux de releases : marquage automatiquement comme lu si existence antérieure épisode égal ou supérieur#à faire
+si flux de releases : téléchargement automatique si série suivi#à faire
+si flux de releases : purge automatique selon ancienneté/série#à faire
+
+@animeka@
+@anidb@
+@tokyotosho@
+@animesuki@
+@animenewsnetwork@
+@anime-planet@
+@myanimelist@
+@netvibes@http://www.netvibes.com/
+@igoogle@http://www.google.fr/ig

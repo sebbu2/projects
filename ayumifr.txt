@@ -1,0 +1,17 @@
+|appurl|1|http://sebbu.naedev.org/
+
+mon site perso#N/A
+système de news#fait
+listes musiques#abandonné
+listes vidéos#abandonné
+liste midi#en cours
+gallerie#fait
+discographie#en cours
+profil#fait
+statistiques#à compléter
+lyrics#à compléter
+liens#en cours
+chat#à refaire
+contact#à continuer
+à propos#à faire
+validation HTML/CSS#fait

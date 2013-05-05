@@ -1,0 +1,30 @@
+|appurl|0|
+
+audit d'audit/gestion de roms avec .dat#N/A
+lister roms#fait
+récupérer catlist#fait
+lister genres#fait
+lister roms d'un genre#fait
+lister bios#fait
+création .dat partiel#en cours
+lister les séries#en cours#v0.1
+faire liste jeux à garder ( genre, série, roms ) et à éviter#à faire
+sauvegarder/charger liste jeux à garder et à éviter#pas fait#v0.2
+sauvegarde/restauration rangement dossier de roms/chd#pas fait
+export partie de romset/chds selon .dat#à faire#v0.3
+audit .dat#à faire
+checker si torrentzip peux etre amélioré ( pas de recompression intégrale lors de ajout/suppr/rename fichiers )#à faire#v0.4
+sauvegarde commentaires roms#pas fait#v0.41
+automatisation des opérations#suggestion
+
+@clrmamepro (FR)@http://clrmamepro.free.fr/
+@clrmamepro (EN)@http://mamedev.emulab.it/clrmamepro/
+@catlist (IT)@http://www.progettoemma.net/?catlist
+@catlist (FR)@http://clrmamepro.free.fr/catlist
+@mame's .DAT (EN)@http://www.romshepherd.com/
+@mameinfo.dat (EN)@http://www.mameworld.info/mameinfo/
+@history.dat (EN)@http://www.arcade-history.com/
+@story.dat (EN)@http://www.arcadehits.net/mamescore/home.php?show=files
+@cheat.dat (EN)@http://cheat.retrogames.com/
+@hiscore.dat (EN)@http://highscore.mameworld.info/
+@command.dat (EN)@http://br.geocities.com/mameultilities/

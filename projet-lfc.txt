@@ -1,0 +1,11 @@
+|appurl|1|http://ayumifr.free.fr/projet_lfc/projet_lfc_v3b.php
+
+projet pour la fac#N/A
+vérification appartenance grammaire#fait
+pyramide cky#fait
+pyramide arbre#fait
+interface AJAX#fait
+exemple de solution pour chaque grammaire fournie d'origine#fait
+
+@language formel et compilation@
+@Algorithme de Cocke-Younger-Kasami@http://fr.wikipedia.org/wiki/Algorithme_de_Cocke-Younger-Kasami

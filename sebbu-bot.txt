@@ -1,0 +1,35 @@
+|appurl|0|
+
+mon bot irc perso#N/A
+connection à un réseau IRC#d'origine
+gestion RFC 1459, 2810, 2811, 2812, 2813#en cours
+gestion spécificités serveur (unrealircd, InspIRCd, u2, ircd-ratbox, solid-ircd, ircd-hybrid, hyperion ircd, etc... )#en cours
+getion services ( users, channels, vhosts, memo, etc... ) ( anope, ratbox, etc... )#en cours
+gestion multi-serveur#d'origine
+gestion modules dynamiques : chargement/déchargement <b><u>à chaud</u></b>#en cours
+sandbox (tests avec runkit)#en cours
+dictionnaire#fait
+jeux pendu#fait
+lecteur rss#en cours
+interpréteur brainfuck#fait
+gestion texte formatté#fait
+gestion anti-flood#en cours
+administration selon masque (nick!ident@host)#d'origine
+administration selon login/pass#fait
+ajout des level d'accès pour l'administration#fait
+support bitlbee (XMPP/Jabber, MSN Messenger, Yahoo! Messenger, AIM and ICQ)#en cours
+support minbif (tout les protocoles de libpurple, la librairie de gaim/pidgin)#pas fait
+ajout fonctions callback#fait
+gestion triggers dynamiques ( généraux et spécifiques à un salon )#fait
+chargement/sauvegarde des triggers dynamique#fait
+support DCC RECV#en cours
+support DCC SEND#en cours
+support DCC CHAT#en cours
+mise en cache des infos serveurs#en cours
+log du serveur, des salons, des notices, des messages privés#fait
+gestion timers#en cours
+surveillance salons, flood#à faire
+
+@Spionner@
+@bitlbee@http://www.bitlbee.org/
+@minbif@http://symlink.me/wiki/minbif

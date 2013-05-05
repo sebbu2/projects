@@ -1,0 +1,18 @@
+|appurl|1|http://sebbu.naedev.org/sdl/web/
+
+petit jeux perso#N/A
+cat, directions, moves, screen limit, delay#fini#v0.1
+move animations#fini#v0.2
+object oriented#en cours#v0.3
+sprite overflow#fini#v0.4
+move overflow#fini#v0.5
+layers & mouse#fini#v0.6
+dialogues, overlay#fini#v0.7
+update#fini/abandonné#v0.9
+update2#fini#v0.10
+Gestion des évênements#en cours
+Gestion des cartes à scrolling ( ne pouvant pas être affiché intégralement à l'écran )#à faire#v0.11
+Des dialogues#à faire
+D'autres cartes/sprites/personnages#pas fait
+
+@libSDL@http://www.libsdl.org/

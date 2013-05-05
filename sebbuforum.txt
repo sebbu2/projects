@@ -1,0 +1,24 @@
+|appurl|1|http://sebbu.naedev.org/forumperso/
+
+mon forum perso#N/A
+gestion forums#fait
+gestion sous-forums#fait
+gestion topics#fait
+gestion messages#fait
+Gestions utilisateurs#fait
+gestion édition/suppression messages#fait
+gestion édition/suppression topic#fait
+gestion lock message/topic#fait
+gestion skins#en cours
+gestion quotes#fait
+gestion BBcode#fait
+optimisation requetes( performances )#en cours
+statistiques#fait
+profil membres#fait
+messagerie privée#fait
+partie administration#à finir
+controle anti-flood#à faire
+controle anti-spam#à faire
+
+@typepad antispam@http://www.sixapart.com/fr/typepad/antispam/accueil.html
+@akismet@http://akismet.com/

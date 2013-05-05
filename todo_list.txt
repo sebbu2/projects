@@ -1,0 +1,9 @@
+|appurl|1|http://sebbu.zouig.org/
+
+pour suivre facilement l'avancement de mes différents projets et leurs fonctionnalités#N/A
+Gestion des projets#en cours
+Description courte du projet#en cours
+Gestion des fonctionnalité#fait
+Gestion des status#fait
+Gestion des versions#en cours
+Gestion des liens utiles#fait
